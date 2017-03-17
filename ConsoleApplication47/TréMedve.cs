@@ -7,9 +7,22 @@ namespace ConsoleApplication47
 {
     public class TréMedve : Versenyzők
     {
+        public TréMedve(int Sorszám, int Sebesség, int Lábak, float Kör) : base(Sorszám, Sebesség, Lábak, Kör)
+        {
+            this.Sorszám = Sorszám;
+            this.Sebesség = Sebesség;
+            this.Lábak = Lábak;
+            this.Kör = Kör;
+        }
+
         public void Ordít()
         {
-            
+
+        }
+
+        public void Lépés()
+        {
+            Kör = Kör + 1 * Sebesség;
         }
     }
 }

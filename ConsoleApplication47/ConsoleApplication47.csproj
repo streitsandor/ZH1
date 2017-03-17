@@ -43,9 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Barna_a_medve.cs" />
+    <Compile Include="Bolha.cs" />
+    <Compile Include="CsacskaNyúl.cs" />
+    <Compile Include="Hóvirág.cs" />
+    <Compile Include="Másnapos_a_szöcske.cs" />
+    <Compile Include="Para_a_róka.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TréMedve.cs" />
     <Compile Include="Versenyzők.cs" />
+    <Compile Include="ZsigaCsiga.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

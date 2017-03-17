@@ -7,9 +7,20 @@ namespace ConsoleApplication47
 {
     public class Versenyzők
     {
-        protected int Sorszám;
-        protected int Sebesség;
-        protected int Kör;
-        protected int Lábak;
+        public float Kör;
+
+        public int Lábak;
+
+        public int Sebesség;
+
+        public int Sorszám;
+
+        public Versenyzők(int sorszám, int sebesség, int lábak, float kör)
+        {
+            Sorszám = sorszám;
+            Sebesség = sebesség;
+            Lábak = lábak;
+            Kör = kör;
+        }
     }
 }

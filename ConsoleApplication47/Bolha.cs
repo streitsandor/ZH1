@@ -7,5 +7,12 @@ namespace ConsoleApplication47
 {
     public class Bolha : Versenyzők
     {
+        public Bolha(int Sorszám, int Sebesség, int Lábak, float Kör) : base(Sorszám, Sebesség, Lábak, Kör)
+        {
+            this.Sorszám = Sorszám;
+            this.Sebesség = Sebesség;
+            this.Lábak = Lábak;
+            this.Kör = Kör;
+        }
     }
 }
