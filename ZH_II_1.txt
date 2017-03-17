@@ -1,0 +1,39 @@
+A kerekerdõben tavaszbúcsúztató futóversenyt rendeznek.
+
+A versenybe jelentkezik a CsacskaNyúl, a ZsigaCsiga, a TréMedve, Barna a medve, a Hóvirág, Para a róka,
+ a Másnapos a szöcske.
+
+A versenyzõk induláskor kapnak egy sorszámot amely megmásítahtatlan, mert a szervezõk a tavalyi
+ rendezvénybõl tanulva sepciális diszkóiparban kifejlesztett átmenetileg letörölhetetlen UV tintával 
+festik fel a versenyzõkre.
+
+A versenyzõk a habitusuknak megfelelõen különféle képen értelmezik a versenyzés fogalmát.
+
+A TréMedve azt tartja viccesnek ha néha elordítja magát és ezzel a ZsigaCsigát ijedtében 2 lépésre a házába 
+kényszeríti.
+
+A Csacskanyúl az ordítást hallva megmásfélszerezi a sebességét.
+
+A szöcske bár belead apait anyait a tegnap esti elõszombat megtette a hatását, és néha kettõt lép 
+elõre néha eggyet vissza, néha egy bokor mellett megáll levegõzni. 
+
+???? A róka kissé bizalmatlan a világgal, általában bokorban megbújva vár egy lépést, hogy felmérje a terepet, majd 
+következõ pillanatban átsprintel a következõ bokorig.
+
+A hóvirág a startpisztoly dördülésének hatására földbe gyökerezik, és úgy is marad.
+
+***A verseny 100 kör után ér véget, a versenyszervezéssel megbízott cég 10 körönként ad ki tájékozattást 
+a verenyzõk aktuális megtette távolságáról átlagsebességérõl.
+
+A lábbal rendelkezõ versenyzõk esetében a lábankénti sebességet is kiírják a jövõbeni szponzorok 
+tájékoztatása végett.
+
+Idõközben kiderült, hogy a bolha is elindult a versenyen, csak nem tudták kiolvasni az írását.
+
+A bolha inkorrekt módon felkapaszkodott a medvére, ezért az általa megtett távolsága mindíg a medvéével egyezik meg.
+
+A verseny befejezõdése után a kialalkult eredményt megtett távolság szerint csökkenõ sorrendben 
+listázzák ki nevüket, versenyazonosítójukat kiírva.
+
+
+// CsacskaNyúl, ZsigaCsiga, TréMedve, Barna a medve, Hóvirág, Para a róka, Másnapos a szöcske, Bolha //

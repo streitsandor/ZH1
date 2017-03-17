@@ -7,6 +7,7 @@ namespace ConsoleApplication47
 {
     public class Másnapos_a_szöcske : Versenyzők
     {
+
         public Másnapos_a_szöcske(int Sorszám, int Sebesség, int Lábak, float Kör) : base(Sorszám, Sebesség, Lábak, Kör)
         {
             this.Sorszám = Sorszám;
@@ -15,9 +16,12 @@ namespace ConsoleApplication47
             this.Kör = Kör;
         }
 
-        public void Lépés()
+        public void Lép()
         {
-            Kör = Kör + 1 * Sebesség;
+            Random rnd = new Random();
+            Sebesség = rnd.Next(-1, 2);
+
+            Lépés = Kör;
         }
     }
 }

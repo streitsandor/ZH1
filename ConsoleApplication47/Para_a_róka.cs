@@ -14,10 +14,5 @@ namespace ConsoleApplication47
             this.Lábak = Lábak;
             this.Kör = Kör;
         }
-
-        public void Lépés()
-        {
-            Kör = Kör + 1 * Sebesség;
-        }
     }
 }

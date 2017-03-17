@@ -20,9 +20,9 @@ namespace ConsoleApplication47
 
         }
 
-        public void Lépés()
+        public void Lép()
         {
-            Kör = Kör + 1 * Sebesség;
+            Lépés = Kör;
         }
     }
 }

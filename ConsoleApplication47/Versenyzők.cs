@@ -22,5 +22,8 @@ namespace ConsoleApplication47
             Lábak = lábak;
             Kör = kör;
         }
+
+        public float Lépés { set { Kör = Kör + 1 * Sebesség; } }
+
     }
 }
