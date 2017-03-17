@@ -7,5 +7,9 @@ namespace ConsoleApplication47
 {
     public class Versenyzők
     {
+        protected int Sorszám;
+        protected int Sebesség;
+        protected int Kör;
+        protected int Lábak;
     }
 }
