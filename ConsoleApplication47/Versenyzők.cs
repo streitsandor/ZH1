@@ -7,20 +7,20 @@ namespace ConsoleApplication47
 {
     public class Versenyzők
     {
-        public float Kör;
+        private float Kör;
 
-        public int Lábak;
+        private int Lábak;
 
-        public int Sebesség;
+        private int Sebesség;
 
-        public int Sorszám;
+        private int Sorszám;
 
-        public Versenyzők(int sorszám, int sebesség, int lábak, float kör)
+        public Versenyzők(int Sorszám, int Sebesség, int Lábak, float Kör)
         {
-            Sorszám = sorszám;
-            Sebesség = sebesség;
-            Lábak = lábak;
-            Kör = kör;
+            this.Sorszám = Sorszám;
+            this.Sebesség = Sebesség;
+            this.Lábak = Lábak;
+            this.Kör = Kör;
         }
 
         public float Lépés { set { Kör = Kör + 1 * Sebesség; } }

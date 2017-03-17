@@ -1,2 +1,7 @@
 c:\users\test\documents\visual studio 2015\Projects\ConsoleApplication47\ConsoleApplication47\bin\Debug\ConsoleApplication47.exe.config
 C:\Users\test\Desktop\Új mappa\ZH1\ConsoleApplication47\bin\Debug\ConsoleApplication47.exe.config
+C:\Users\test\Desktop\Új mappa\ZH1\ConsoleApplication47\bin\Debug\ConsoleApplication47.exe
+C:\Users\test\Desktop\Új mappa\ZH1\ConsoleApplication47\bin\Debug\ConsoleApplication47.pdb
+C:\Users\test\Desktop\Új mappa\ZH1\ConsoleApplication47\obj\Debug\ConsoleApplication47.csprojResolveAssemblyReference.cache
+C:\Users\test\Desktop\Új mappa\ZH1\ConsoleApplication47\obj\Debug\ConsoleApplication47.exe
+C:\Users\test\Desktop\Új mappa\ZH1\ConsoleApplication47\obj\Debug\ConsoleApplication47.pdb

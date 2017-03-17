@@ -7,21 +7,32 @@ namespace ConsoleApplication47
 {
     public class Másnapos_a_szöcske : Versenyzők
     {
+        private int mSorszám;
+        private int mSebesség;
+        private int mLábak;
+        private float mKör;
 
         public Másnapos_a_szöcske(int Sorszám, int Sebesség, int Lábak, float Kör) : base(Sorszám, Sebesség, Lábak, Kör)
         {
-            this.Sorszám = Sorszám;
-            this.Sebesség = Sebesség;
-            this.Lábak = Lábak;
-            this.Kör = Kör;
+            mSorszám = Sorszám;
+            mSebesség = Sebesség;
+            mLábak = Lábak;
+            mKör = Kör;
         }
 
         public void Lép()
         {
             Random rnd = new Random();
-            Sebesség = rnd.Next(-1, 2);
+            mSebesség = rnd.Next(-1, 2);
 
-            Lépés = Kör;
+            Lépés = mKör;
+        }
+
+        public void Kiír()
+        {
+            StringBuilder g = new StringBuilder();
+            g.AppendFormat("Sorszám:{0}", "Sebesség:{1}", "Lábak:{2}", "Kör:{3}", mSorszám.ToString(), mSebesség.ToString(), mLábak.ToString(), mKör.ToString());
+            Console.WriteLine(g);
         }
     }
 }
